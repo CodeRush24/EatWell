@@ -4,6 +4,7 @@ import { BsFillCartFill, BsThreeDots } from 'react-icons/Bs'
 import { TbTruckDelivery } from 'react-icons/Tb'
 import { HiOutlineClipboardList } from "react-icons/hi";
 import { BiCommentDetail } from 'react-icons/bi'
+import { RiReservedFill } from 'react-icons/Ri'
 import img1 from '../assets/EatWellLogo.png'
 
 const Navbar = () => {
@@ -62,6 +63,7 @@ const Navbar = () => {
                             <li className='flex text-xl py-4 items-center'><HiOutlineClipboardList size={25} className='mr-4' />Menu </li>
                             <li className='flex text-xl py-4 items-center'><AiFillTag size={25} className='mr-4' />Promotions </li>
                             <li className='flex text-xl py-4 items-center'><BiCommentDetail size={25} className='mr-4' />Testimonials </li>
+                            <li className='flex text-xl py-4 items-center'><RiReservedFill size={25} className='mr-4' />Reservations </li>
                             <li className='flex text-xl py-4 items-center'><BsThreeDots size={25} className='mr-4' />More </li>
                         </ul>
                     </nav>
