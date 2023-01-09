@@ -22,7 +22,7 @@ EatWell is a Frontend Website template of a Vegan Restaurant
 Clone the project
 
 ```bash
-  git clone https://github.com/Sudcsk24/EatWell.git
+  git clone https://github.com/CodeRush24/EatWell.git
 ```
 
 
@@ -45,11 +45,11 @@ Start the server
 
 
 ## Profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sudcsk24)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/CodeRush24)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-trifaley-188b4023a/)
 
 
 ## Authors
 
-- [@Sudcsk24](https://github.com/Sudcsk24)
+- [@CodeRush24](https://github.com/CodeRush24)
