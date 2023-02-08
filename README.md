@@ -19,13 +19,6 @@ EatWell is a Frontend Website template of a Vegan Restaurant
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/CodeRush24/EatWell.git
-```
-
-
 ## Install dependencies
 install with npm
 
@@ -45,11 +38,11 @@ Start the server
 
 
 ## Profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/CodeRush24)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MavericksCoder)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-trifaley-188b4023a/)
 
 
 ## Authors
 
-- [@CodeRush24](https://github.com/CodeRush24)
+- [@MavericksCoder](https://github.com/MavericksCoder)
