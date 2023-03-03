@@ -4,7 +4,8 @@ import { BsFillCartFill, BsThreeDots } from 'react-icons/Bs'
 import { TbTruckDelivery } from 'react-icons/Tb'
 import { HiOutlineClipboardList } from "react-icons/hi";
 import { BiCommentDetail } from 'react-icons/bi'
-import { RiReservedFill } from 'react-icons/Ri'
+import { RiReservedFill, RiRestaurant2Line } from 'react-icons/Ri'
+// import { IoRestaurant } from 'react-icons/io'
 import img1 from '../assets/EatWellLogo.png'
 
 const Navbar = () => {
@@ -42,7 +43,7 @@ const Navbar = () => {
                 {nav ? <div className='bg-black/80 fixed w-full h-screen z-10 top-0 left-0'></div> : ''}
 
                 <div className={nav ? 'fixed top-0 left-0 w-[300px] h-screen bg-amber-200 z-10 duration-500' : 'fixed top-0 left-[-100%] w-[300px] h-screen bg-amber-200 z-10 duration-1000'}>
-                    <AiOutlineCloseSquare
+                    <RiRestaurant2Line
                         onClick={() => setNav(!nav)}
                         size={30}
                         className='text-green-600 font-extrabold absolute right-1 top-3 cursor-pointer'
