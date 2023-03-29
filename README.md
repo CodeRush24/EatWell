@@ -45,4 +45,4 @@ Start the server
 
 ## Authors
 
-- [@MavericksCoder](https://github.com/Sudarshandev24)
+- [@sudarshandev24](https://github.com/sudarshandev24)
